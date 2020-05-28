@@ -1,0 +1,10 @@
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.csprojAssemblyReference.cache
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.Form1.resources
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.Properties.Resources.resources
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.csproj.GenerateResource.cache
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.csproj.CoreCompileInputs.cache
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\bin\Debug\LAB4.alt.exe.config
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\bin\Debug\LAB4.alt.exe
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\bin\Debug\LAB4.alt.pdb
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.exe
+C:\Users\LCRFT\Documents\ПМ-11інт\Оптимізація обчислень\лаб 4\LAB4.alt\LAB4.alt\obj\Debug\LAB4.alt.pdb
